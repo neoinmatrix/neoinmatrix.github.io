@@ -3,3 +3,7 @@ description: This is my personal Page.
 show_downloads: false
 is_project_page: true
 theme: jekyll-theme-architect
+posts: {
+  {url:"www.baidu.com",title:"baidu"},
+  {url:"www.google.com",title:"google"},
+} 
