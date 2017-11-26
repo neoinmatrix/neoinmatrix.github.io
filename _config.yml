@@ -1,4 +1,5 @@
 title: Neoinmatirx Home
 description: This is my personal Page.
 show_downloads: false
+is_project_page: true
 theme: jekyll-theme-architect
